@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Rahul Mehra a BTech CSE (AI) student with a focus on Artificial Intelligence and Full Stack Development. Interested in building intelligent, real-world applications and writing clean, efficient code.<br><br>- 💻 Tech: Python, JavaScript, React, Node.js<br>- 🤖 Exploring: Machine Learning & AI<br>- 📫 Contact: https://www.linkedin.com/in/rahulmehra08/
+I am Rahul Mehra a BTech CSE (AI) student with a focus on Artificial Intelligence and Full Stack Development. Interested in building intelligent, real-world applications and writing clean, efficient code.<br><br>- 💻 Tech: Python, JavaScript, React, Node.js<br>- 🤖 Exploring: Machine Learning & AI<br>- 📫 Contact: https://www.linkedin.com/in/rahuulmehra/
 
 
 ## 🌐 Socials:
